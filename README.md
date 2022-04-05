@@ -1,19 +1,16 @@
 
 
+<h1 align="center" >  Hi, I'm Hamza 👋👋</h1>
 
+![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+
+<hr/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
 
 - 🔭 I’m currently working on a research exploring the psychology of fashion; what people wear, and how it affects mood and energy. Buzz me if you're interested, as i'm looking to collaborate on this. 
 - 📫 How to reach me: hamzaziani.dev@gmail.com
-
-
-
-<h1 align="center" >  Hi, I'm Hamza 👋👋</h1>
-
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
-
 <hr/>
 
 <div align="center">
