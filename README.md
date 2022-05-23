@@ -5,9 +5,9 @@ Programmer | Content Creator | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development** & **Mobile Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** & **Php**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
