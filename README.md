@@ -7,7 +7,7 @@ Programmer | Content Creator | Learner
 
 - 🔭 I’m currently working on **Web Development** & **Mobile Development**
 
-- 🌱 I’m currently learning **Python** & **Flutter**
+- 🌱 I’m currently learning **Python** & **Flutter** & **Php**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
