@@ -56,7 +56,7 @@ Programmer | Content Creator | Learner
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="Hamza Ziani" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Hamza Ziani" /></p>
+
 
 [website]: #
 [facebook]:https://web.facebook.com/profile.php?id=100078393806214
