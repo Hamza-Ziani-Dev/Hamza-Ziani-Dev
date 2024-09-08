@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Hamza Ziani</h1>
+<h1 align="center">Hi<img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Hamza Ziani</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
@@ -29,7 +29,7 @@ Programmer | Content Creator | Learner
 <br />
 
 ### 🛠 &nbsp;Tech Stack
-
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
