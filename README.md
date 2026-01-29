@@ -11,7 +11,7 @@ Programmer | Content Creator | Learner
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about Full-Stack development (Java & Spring Boot) and Mobile development (Flutter & Android)
 
 - 📫 How to reach me **Hamzaziani.dev@gmail.com**
 
